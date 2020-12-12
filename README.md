@@ -1,6 +1,4 @@
-# Updated-Resume
-
-  **Daniel Alemayehu**
+# Daniel Alemayehu
 
   Lynnwood, WA 
   
