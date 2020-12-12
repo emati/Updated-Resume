@@ -1,6 +1,6 @@
 # Updated-Resume
 
-**#Daniel Alemayehu
+**#Daniel Alemayehu**
 
 Lynnwood, WA 202 848 9487 dengdawork@gmail.com
 
