@@ -1,13 +1,14 @@
 # Updated-Resume
 
-#**Daniel Alemayehu**
+  **Daniel Alemayehu**
+
   Lynnwood, WA 
   
   (202 848 9487) 
   
   dengdawork@gmail.com
 
-##**Professional Summary**
+  **Professional Summary**
 
 - 6+ years experience in managing health and health related projects
 - Proficient in business scope definition, cost/benefit analysis, conceptual design analysis.
@@ -18,11 +19,11 @@
 - Documented success overcoming challenges of limited resources and financial constraints to design high-quality, cost-effective, and comprehensive service offerings.
 - Skilled at building community support, key coalitions, and strategic interagency partnerships. Backed by strengths in program, personnel and case management and conflict resolution.
 
-**Skills:**
+  **Skills:**
 
 Visual Studio, SQL Server, Transact-SQL, Oracle, SSIS, CSS, HTML, Power BI, TFS, Trello, Database Development, BI Solutions, Data Warehousing & Integration Object & Dimensional Modeling, OLAP & OLTP Data Modeling, Scripting, Coding & Documentation
 
-**Professional Experience**
+  **Professional Experience**
 
   **Mahibere Kidusan Coordinating Center in North America**
 
@@ -53,7 +54,7 @@ Visual Studio, SQL Server, Transact-SQL, Oracle, SSIS, CSS, HTML, Power BI, TFS,
 - Developed Monitoring and Evaluation systems, including indicators, data collection, analysis and as required by the company
 - Documented success stories and lessons learned from the entire course of the project appraisal to completion.
 
-**Education & Training**
+  **Education & Training**
 
 MSc in Public Health, Hawassa University
 
