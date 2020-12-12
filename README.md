@@ -1,11 +1,13 @@
 # Updated-Resume
 
-**Daniel Alemayehu**
+#**Daniel Alemayehu**
   Lynnwood, WA 
+  
   (202 848 9487) 
+  
   dengdawork@gmail.com
 
-**Professional Summary**
+##**Professional Summary**
 
 - 6+ years experience in managing health and health related projects
 - Proficient in business scope definition, cost/benefit analysis, conceptual design analysis.
